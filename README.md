@@ -2,7 +2,7 @@
 <a href='https://www.linkedin.com/in/vishnu-mohan-470971179'><img align='left' height='18px'/>LinkedIn</a>
 
 
-I am a Learner 🌐, Developer 📱, Listener 🤖 (and a designer in pieces🎨) depending the on environment I'm put in. I love exploring new tech 💻 and building cool stuffs 🛠️. And I'm a cyborg 
+I am a Learner 🌐, Developer 📱, Listener 🤖 (and a designer in pieces🎨) depending on the environment I'm put in. I love exploring new tech 💻 and building cool stuffs 🛠️. And I'm a cyborg 
 <br/>
 <br/>
 
