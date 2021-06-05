@@ -10,9 +10,9 @@ I am a Learner 🌐, Developer 📱, Listener 🤖 (and a designer in pieces🎨
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on a **social-media-clone-application**
-- 🌱 &nbsp; I’m currently learning ReactJs and it's super confusing bth; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on here
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 🌱 &nbsp; Right now I'm learning ReactJs and it's super confusing bth
+- 👨🏻‍💻 &nbsp; Most of my projects are available in here
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/vishnu-mohan-470971179)
 - 📚 &nbsp; I love coffee and we are in a complicated relation :stuck_out_tongue:
 
