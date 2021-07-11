@@ -27,7 +27,12 @@ I am a Learner 🌐, Developer 📱, Listener 🤖 (and a designer in pieces🎨
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <a href="https://tailwindcss.com/" target="_blank">
       <img alt="Tailwind CSS" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg" height='42px'>
+</a>
+<a href="https://sass-lang.com/" target="_blank">
+      <img alt="sass" src="https://camo.githubusercontent.com/d9ac5c4a159b0548b3c25ee46ff5aa20f7c9fb348f74c2af1ed4e06e121325ff/68747470733a2f2f7261776769742e636f6d2f736173732f736173732d736974652f6d61737465722f736f757263652f6173736574732f696d672f6c6f676f732f6c6f676f2e737667" height='42px'>
 </a><br>
+
+
 
 <br>
 
