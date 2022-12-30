@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Vishnu Mohanan!
 <a href='https://www.linkedin.com/in/vishnu-mohan-470971179'><img align='left' height='18px'/>LinkedIn</a> <br/>
-<a href='https://www.vishnumohan.online'><img align='left' height='18px'/>Portfolio</a>
+<a href='https://kingkong26.github.io/myportfolio/'><img align='left' height='18px'/>Portfolio</a>
 
 
 I am a Learner 🌐, Developer 📱, Listener 🤖 (and a designer in pieces🎨) depending on the environment I'm put in. I love exploring new tech 💻 and building cool stuffs 🛠️. And I'm a cyborg 
