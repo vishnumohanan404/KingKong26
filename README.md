@@ -1,9 +1,7 @@
 ## Hey 👋, I'm Vishnu Mohanan!
 
-Working on Tech
+Working in Tech
 <br/>
-<br/>
-
 ### More:
 - 👨🏻‍💻 &nbsp; Two years of work experience, mostly working on frontend tech.
 - 📚 &nbsp; Computer science grad, pursuing Masters in Computer Application
